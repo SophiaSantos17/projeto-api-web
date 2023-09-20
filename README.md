@@ -34,5 +34,11 @@ A aplicação foi desenvolvida considerando a responsividade, garantindo uma exp
 [The Dog API](https://thedogapi.com/): Plataforma que fornece uma base de dados sobre diversas raças de cães, permitindo acesso e recuperação de informações específicas sobre esses animais.
 
 ## API Funcionando
+![picFuncionando-api-projec](https://github.com/Sophizada/projeto-api-web/assets/125769375/fd9614bf-c51d-4a26-8919-98ba27444b74)
+
+### Não vem apenas um tipo de raça, vem todas com o nome digitado
+
+
+### E caso não encontre, aparece o erro na tela
 
 
