@@ -40,5 +40,7 @@ A aplicação foi desenvolvida considerando a responsividade, garantindo uma exp
 ![picFuncionando2-api-projec](https://github.com/Sophizada/projeto-api-web/assets/125769375/cbac46f0-8206-4dca-a966-9dbb22e1a46d)
 
 ### E caso não encontre, aparece o erro na tela
+![picFuncionando3-api-projec](https://user-images.githubusercontent.com/125769375/269442460-faa8b5a3-592e-48fc-86fb-4a3be0bab000.png)
 
+O erro é pequeno, porem é legivel!!
 
