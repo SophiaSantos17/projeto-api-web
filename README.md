@@ -37,7 +37,7 @@ A aplicação foi desenvolvida considerando a responsividade, garantindo uma exp
 ![picFuncionando-api-projec](https://github.com/Sophizada/projeto-api-web/assets/125769375/fd9614bf-c51d-4a26-8919-98ba27444b74)
 
 ### Não vem apenas um tipo de raça, vem todas com o nome digitado
-
+![picFuncionando2-api-projec](https://github.com/Sophizada/projeto-api-web/assets/125769375/cbac46f0-8206-4dca-a966-9dbb22e1a46d)
 
 ### E caso não encontre, aparece o erro na tela
 
